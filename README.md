@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Shami</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Coursiya**
+- 🔭 I’m currently working on **CrowdFunding Website**
 
-- 🌱 I’m currently learning **Express js , mongoDB , Java**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portffolioo.netlify.app/](https://portffolioo.netlify.app/)
 
-- 💬 Ask me about **react , javascript , c++**
+- 💬 Ask me about **react , javascript , TypeScript, Java**
 
 - 📫 How to reach me **shamiimd94@gmail.com**
 
