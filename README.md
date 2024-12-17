@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CrowdFunding Website**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://portffolioo.netlify.app/](https://portffolioo.netlify.app/)
 
